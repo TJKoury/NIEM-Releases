@@ -1,0 +1,19 @@
+{
+  "name": "niem-releases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIEM/NIEM-Releases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIEM/NIEM-Releases/issues"
+  },
+  "homepage": "https://github.com/NIEM/NIEM-Releases#readme"
+}
